@@ -1,0 +1,7 @@
+#!/bin/bash
+
+a=22
+b=7
+
+echo "$a/$b ="
+echo "scale=2;$a/$b" | bc
