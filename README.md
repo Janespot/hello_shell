@@ -24,11 +24,11 @@ Below is a list of the files contained in this repo and their explanations
 :This is a script that uses conditional operatiors to take three values from a user to tell the type of triangle that would be formed with these values.
 ---
 **NB:**
--gt *greater than*
--lt *less than*
--ge *greater than or equal to*
--le *less than or equal to*
--eq *equal to*
--ne *not equal*
--a *AND*
--o *OR*
+-gt *greater than*<br>
+-lt *less than*<br>
+-ge *greater than or equal to*<br>
+-le *less than or equal to*<br>
+-eq *equal to*<br>
+-ne *not equal*<br>
+-a *AND*<br>
+-o *OR*<br>
