@@ -23,6 +23,10 @@ Below is a list of the files contained in this repo and their explanations
 -**conditional_operators**
 :This is a script that uses conditional operatiors to take three values from a user to tell the type of triangle that would be formed with these values.
 
+-**for_loop**
+:This is a script that prompts the user to enter the name which is then looped 5 times; the user is then prompted to enter the country name which loops through the string. 
+
+
 ---
 **NB:**<br>
 -gt *greater than*<br>
