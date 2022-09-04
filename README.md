@@ -1,4 +1,4 @@
-#Learning Shell Scripting
+# Learning Shell Scripting
 
 **hello_world.sh**
 :This is a file that prints its contents when run on the terminal.
