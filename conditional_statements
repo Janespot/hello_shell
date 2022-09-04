@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "Enter three values to tell the type of triangle formed!"
+echo "Side a:"
+read a
+echo "Side b:"
+read b
+echo "Side c"
+read c
+
+if [ $a == $b -a $a == $c -a $b == $c ] 
+then
+echo "Equilateral triangle!"
+elif [ $a == $b -o $a == $c -o $b == $c ]
+then
+echo "Isosceles triangle!"
+else
+echo "Scalene triangle!"
+fi
