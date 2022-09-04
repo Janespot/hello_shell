@@ -1,0 +1,22 @@
+#!/bin/bash
+
+a=20
+b=10
+
+echo "$a + $b = $((a+b))"
+echo "$a - $b = $((a-b))"
+echo "$a x $b = $((a*b))"
+echo "$a / $b = $((a/b))"
+echo "$a % $b = $((a%b))"
+echo "$a ^ $b = $((a**b))"
+
+
+
+
+
+
+
+
+
+
+
