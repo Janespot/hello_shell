@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Enter any number less than 10:-"
+read num
+
+while [[ $num -lt 10 ]]; 
+do
+	echo $num
+	(( num += 1 ))	
+
+done
