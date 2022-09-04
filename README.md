@@ -10,4 +10,7 @@
 :This is a file that performs arithmetic operations on two given variables and prints the answer when the script is run.
 
 **fractions**
-:This is a script that performs an arithmetic operation to return a decimal value.(**scale** tell the number of decimal places to be returned i.e.2 in our case; while **bc** *bash calculator* is a command line calculator that supports calculation to a given number of decimal places.
+:This is a script that performs an arithmetic operation to return a decimal value.(**scale** tells the number of decimal places to be returned i.e.2 in our case; while **bc** *bash calculator* is a command line calculator that supports calculation to a given number of decimal places).
+
+**prompt_user.sh**
+:This is a script that prompts a user to enter the name and prints a message with the user's name.*Looks amazing* :joy:
