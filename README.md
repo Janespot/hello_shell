@@ -22,8 +22,9 @@ Below is a list of the files contained in this repo and their explanations
 
 -**conditional_operators**
 :This is a script that uses conditional operatiors to take three values from a user to tell the type of triangle that would be formed with these values.
+
 ---
-**NB:**
+**NB:**<br>
 -gt *greater than*<br>
 -lt *less than*<br>
 -ge *greater than or equal to*<br>
