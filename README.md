@@ -27,7 +27,10 @@ Below is a list of the files contained in this repo and their explanations
 :This is a script that prompts the user to enter the name which is then looped 5 times; the user is then prompted to enter the country name which loops through the string
 
 -**while_loop**
-:This is a script that prompts a user to enter any number less than ten and it loops through the number as long as it is less than 10.. 
+:This is a script that prompts a user to enter any number less than ten and it loops through the number as long as it is less than 10.
+
+-**read_file**
+:This is a script that reads the contents of *"hello_world.sh"* and prints them line by line.
 
 
 ---
