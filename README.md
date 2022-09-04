@@ -17,7 +17,7 @@ Below is a list of the files contained in this repo and their explanations
 -**prompt_user.sh**
 :This is a script that prompts a user to enter the name and prints a message with the user's name.*Looks amazing* :heart_eyes:
 
--**logical_operators.sh**
+-**comparison_operators.sh**
 :This is a script that prompts the user to enter their age in order to tell whether the user is a child, teenager or an adult using comparison operators.
 
 -**conditional_operators**
