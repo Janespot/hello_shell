@@ -32,6 +32,9 @@ Below is a list of the files contained in this repo and their explanations
 -**read_file**
 :This is a script that reads the contents of *"hello_world.sh"* and prints them line by line.
 
+-**commands**
+:This is a script that executes a command *ls* from within it. This is made possible by using backticks (``) to declare the command as a variable. This script executes the *ls* command.
+
 
 ---
 **NB:**<br>
